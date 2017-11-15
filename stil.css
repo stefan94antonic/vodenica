@@ -1,0 +1,19 @@
+.wrapper{
+  padding: 10px;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+
+}
+.big{
+  font-size: 300%;
+}
+
+body{
+  background-color: #bbc0c9;
+}
+.jebote{
+  padding-left: 5px;
+}
